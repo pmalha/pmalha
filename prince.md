@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmalhotra
-- 👀 I’m interested in ...backend
-- 🌱 I’m currently learning ...backend from meta
+- 👀 I’m interested in ...Data Science
+- 🌱 I’m currently learning ...Data Science from cousera
 - 💞️ I’m looking to collaborate on ...code
 
 
